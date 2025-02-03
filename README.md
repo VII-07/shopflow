@@ -1,6 +1,6 @@
-# E-commerce Store
+# ShopFlow
 
-Full-stack e-commerce application built with Next.js 13, React, TailwindCSS, Zustand, and Stripe API.
+Modern full-stack e-commerce application built with Next.js 13, React, TailwindCSS, Zustand, and Stripe API.
 
 ## Features
 
@@ -23,7 +23,7 @@ Full-stack e-commerce application built with Next.js 13, React, TailwindCSS, Zus
 
 ```bash
 git clone <your-repo-url>
-cd ecommerce-store-nextjs
+cd shopflow
 ```
 
 2. Install dependencies
